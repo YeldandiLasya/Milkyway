@@ -1,4 +1,4 @@
-# Milkyway
+# The Gesture-Based Human-Computer Interaction System
 **The Gesture-Based Human-Computer Interaction System**
 The Gesture-Based Human-Computer Interaction System enables users to interact with AI-generated images using hand gestures. By leveraging OpenCV and MediaPipe, the system detects and tracks hand movements in real-time, recognizing gestures such as a thumb
 up or index-up to trigger AI-based image generation using Stable Diffusion. The live video feed is processed, and based on the detected gesture, an appropriate AI-generated image—such as a futuristic city or a landscape—is displayed on a Streamlit web
