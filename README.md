@@ -4,4 +4,5 @@ up or index-up to trigger AI-based image generation using Stable Diffusion. The 
 interface. This project demonstrates how gesture-based interfaces can enhance human-computer interaction by eliminating the need for physical inputs. The system is built using Python, with OpenCV for video processing, MediaPipe for hand tracking, Stable Diffusion for AI image generation, and Streamlit for a user-friendly interface. Future improvements include expanding gesture recognition, integrating more AI models, optimizing the UI/UX, and incorporating voice commands for a multimodal interaction system.
 
 **Conclusion:**
+
 Gesture-based interaction provides an intuitive and natural way to interact with digital systems, reducing reliance on physical devices. This project demonstrates the potential of combining computer vision, AI, and interactive web technologies to create an engaging and efficient human-computer interaction experience. With further advancements, gesture-based systems can be integrated into various domains such as gaming, virtual reality, smart environments, and assistive technologies, making human-computer interaction more seamless, accessible, and innovative.
